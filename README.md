@@ -22,6 +22,7 @@ Now, the energy Eigen-state wave functions are then found. Again, the energy Eig
 <img src = "https://github.com/Anshnrag02/Wave-Equation-Simulation/blob/main/Images/Eigen%20state%20function.png">
 
 Discrete quantized wave vectors are required to solve the Time-Dependent equation, ψ(x, t). The energy quantization for the system becomes,<br>
+
 <img src = https://github.com/Anshnrag02/Wave-Equation-Simulation/blob/main/Images/Energy%20function.png">
 
 Finally, the last item the time dependent Schrödinger equation depends on is C<sub>n</sub>, the expansion coefficient that changes the probability amplitude. The indefinite integral of the complex conjugate of eigenstate wave function and the initial wave function with respect to the spatial dimension x,<br>
